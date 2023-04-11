@@ -8,7 +8,7 @@ function CustomTable({ medics }: MedicsType) {
       <thead>
         <tr>
           <th>ID</th>
-          <th>Full name</th>
+          <th>Nome completo</th>
         </tr>
       </thead>
       <tbody>

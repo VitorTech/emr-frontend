@@ -16,6 +16,7 @@ function App() {
   }, []);
   return (
     <div className="App">
+      <h1>Lista de médicos</h1>
       <CustomTable medics={medics} />
     </div>
   );

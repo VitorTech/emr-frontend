@@ -2,9 +2,9 @@
 
 EMR frontend application.
 
-## Available Scripts
+## Running the project
 
-In the project directory, you can run:
+In the project directory, you must run:
 
 ### `npm install`
 
@@ -13,6 +13,4 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3006](http://localhost:3006) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
